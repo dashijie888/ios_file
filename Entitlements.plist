@@ -33,9 +33,9 @@
  	<key>metadata</key>
  	<dict>
  	<key>bundle-identifier</key>
- 	<string>application-identifier</string>
+ 	<string>com.apple.developer.team-identifier</string>
  	<key>bundle-version</key>
- 	<string>983R8756Q7.com.ipa24.pub</string>
+ 	<string>983R8756Q7</string>
  	<key>kind</key>
  	<string>software</string>
  	<key>subtitle</key>
